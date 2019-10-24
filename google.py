@@ -1,7 +1,7 @@
 import requests
 
 api_url = "https://translation.googleapis.com/language/translate/v2"
-key = "AIzaSyCjfo4nCHmvF6oaU4ob5uwhBlV_LC6rgn0"
+key =" <Google api key . secret>"
 data = {
     'q':'엄마 판다는 새끼가 있네',
     'source':'ko',
